@@ -1,0 +1,2 @@
+﻿practicescanf.obj : error LNK2005: _main already defined in add.obj
+C:\Users\YENI HONG\Desktop\Practice\Debug\Practice.exe : fatal error LNK1169: one or more multiply defined symbols found
